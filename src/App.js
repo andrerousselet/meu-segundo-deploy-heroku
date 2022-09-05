@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      REACT APP
+      Meu segundo deploy com Heroku!
     </div>
   );
 }
